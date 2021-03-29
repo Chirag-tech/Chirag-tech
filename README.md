@@ -1,14 +1,14 @@
-### I am Chirag Khandelwal !! 😄
+#### I am Chirag Khandelwal !! 😄
 
 <img src ="https://camo.githubusercontent.com/af4d5d7735cbc17ad74fc5365e4dadbd04bff06d00f9f66f1617e63d66a23850/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e6769663f31353336333531303735">
 
 ---
 
-### I am a Web Developer 👨‍💻,Currently Working as a Junior Developer Intern @ [ Double Star Solutions ](https://doublestarsolutions.sg/ "Double Star Solutions") 👨‍💼
+#### I am a Web Developer 👨‍💻,Currently Working as a Junior Developer Intern @ [ Double Star Solutions ](https://doublestarsolutions.sg/ "Double Star Solutions") 👨‍💼
 
 ---
 
-### I am well versed in ❤️
+#### I am well versed in ❤️
 
 <br />
 <p>
@@ -19,11 +19,10 @@
 <img  src="https://camo.githubusercontent.com/f7c3ee03e8c0f6b42e081dbc1d4baf4d524919bc7272ad550020871b8cd5ee98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465">
 <img  src="https://camo.githubusercontent.com/d607ae8c71b62f86b0c7a25e1b87b611789c8e28820ad4c3479390a85848dc3d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c6174266c6f676f3d74797065536372697074266c6f676f436f6c6f723d7768697465">
 </p>
-<br />
 
 ---
 
-### Other Technologies I am Familiar with
+#### Other Technologies I am Familiar with :
 
 <br />
 <p>
@@ -40,7 +39,6 @@
 <img  src="https://camo.githubusercontent.com/d69a2ff9d086c822794c6c64a6f2e0d8ebdcb25e5a440fc625f29130dbc83a2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46697265626173652d4646434132383f7374796c653d666c6174266c6f676f3d6669726562617365266c6f676f436f6c6f723d7768697465"/>
 <img  src="https://camo.githubusercontent.com/f0702d2c900f788763f6e98189377b0b34d4ed3966555ac61236cd860f896b8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6174657269616c2044657369676e2d3735373537353f7374796c653d666c6174266c6f676f3d6d6174657269616c2d64657369676e266c6f676f436f6c6f723d7768697465"/>
 </p>
-<br />
 
 ---
 
@@ -52,15 +50,17 @@
 
 <br/>
 
-### Connect me on
+#### Connect me on :
 
-<br/>
+<p>
 
-[<img align="left"  src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_32x32.png?_ga=2.56687017.265754858.1617000643-610601739.1617000643"/>][linkedin]
+[<img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_32x32.png?_ga=2.56687017.265754858.1617000643-610601739.1617000643"/>][linkedin]
 
-[<img align="left" style="margin-left:10px;margin-top:-12px"  src="https://cdn.exclaimer.com/Handbook%20Images/reddit-icon_32x32.png?_ga=2.90763545.265754858.1617000643-610601739.1617000643"/>][reddit]
+[<img src="https://cdn.exclaimer.com/Handbook%20Images/reddit-icon_32x32.png?_ga=2.90763545.265754858.1617000643-610601739.1617000643"/>][reddit]
 
-[<img align="left" style="margin-left:10px;margin-top:-12px" src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_32x32.png?_ga=2.12244663.265754858.1617000643-610601739.1617000643"/>][twitter]
+[<img src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_32x32.png?_ga=2.12244663.265754858.1617000643-610601739.1617000643"/>][twitter]
+
+</p>
 
 [linkedin]: https://www.linkedin.com/in/chirag-khandelwal-688b16188/
 [twitter]: https://twitter.com/chiragkhuteta

@@ -58,13 +58,9 @@
 
 [<img align="left"  src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_32x32.png?_ga=2.56687017.265754858.1617000643-610601739.1617000643"/>][linkedin]
 
-[<img align="left" style="margin-left:10px"  src="https://cdn.exclaimer.com/Handbook%20Images/reddit-icon_32x32.png?_ga=2.90763545.265754858.1617000643-610601739.1617000643"/>][reddit]
+[<img align="left" style="margin-left:10px;"  src="https://cdn.exclaimer.com/Handbook%20Images/reddit-icon_32x32.png?_ga=2.90763545.265754858.1617000643-610601739.1617000643"/>][reddit]
 
-<<<<<<< HEAD
 [<img align="left" style="margin-left:10px;" src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_32x32.png?_ga=2.12244663.265754858.1617000643-610601739.1617000643"/>][twitter]
-=======
-[<img align="left" style="margin-left:10px" src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_32x32.png?_ga=2.12244663.265754858.1617000643-610601739.1617000643"/>][twitter]
->>>>>>> f59f39a3955f7f34322838c13bc9c985dd929724
 
 [linkedin]: https://www.linkedin.com/in/chirag-khandelwal-688b16188/
 [twitter]: https://twitter.com/chiragkhuteta

@@ -1,6 +1,6 @@
 #### I am Chirag Khandelwal !! 😄
 
-<img src ="https://camo.githubusercontent.com/af4d5d7735cbc17ad74fc5365e4dadbd04bff06d00f9f66f1617e63d66a23850/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e6769663f31353336333531303735">
+<img width="50px" src ="https://camo.githubusercontent.com/af4d5d7735cbc17ad74fc5365e4dadbd04bff06d00f9f66f1617e63d66a23850/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e6769663f31353336333531303735">
 
 ---
 
@@ -42,13 +42,9 @@
 
 ---
 
-<br/>
-
 ![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirag-tech&show_icons=true&theme=radical)
 
 ---
-
-<br/>
 
 #### Connect me on :
 

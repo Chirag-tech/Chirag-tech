@@ -4,7 +4,12 @@
 
 ---
 
-#### I am a Web Developer 👨‍💻,Currently Working as a Junior Developer Intern @ [ Double Star Solutions ](https://doublestarsolutions.sg/ "Double Star Solutions") 👨‍💼
+#### I am a Web Developer 👨‍💻 
+#### Currently Building Self Projects to get a hands on experience on different technologies.
+#### 2021 Goals :
+###       Learn React & Next.js.
+###       Learn React Native.
+###       Build More Projects on Backend.
 
 ---
 

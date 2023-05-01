@@ -5,10 +5,9 @@
 ---
 
 #### I am a Web Developer 👨‍💻 
-#### Currently Building Self Projects to get a hands on experience on different technologies.
-#### 2021 Goals :
-###       Learn React & Next.js.
-###       Learn React Native.
+#### Currently Working at Amazon as an Application Engineer - 2 and Building Self Projects to get a hands on experience on different technologies.
+#### 2023 Goals :
+###       Learn Next.js.
 ###       Build More Projects on Backend.
 
 ---

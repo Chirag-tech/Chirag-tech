@@ -6,7 +6,7 @@
 
 #### I am a Web Developer 👨‍💻 
 #### Currently Working at Amazon as an Application Engineer - 2 and Building Self Projects to get a hands on experience on different technologies.
-#### 2023 Goals :
+#### 2024 Goals :
 ###       Learn Next.js.
 ###       Build More Projects on Backend.
 
@@ -56,12 +56,8 @@
 
 [<img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_32x32.png?_ga=2.56687017.265754858.1617000643-610601739.1617000643"/>][linkedin]
 
-[<img src="https://cdn.exclaimer.com/Handbook%20Images/reddit-icon_32x32.png?_ga=2.90763545.265754858.1617000643-610601739.1617000643"/>][reddit]
-
-[<img src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_32x32.png?_ga=2.12244663.265754858.1617000643-610601739.1617000643"/>][twitter]
 
 </p>
 
 [linkedin]: https://www.linkedin.com/in/chirag-khandelwal-688b16188/
-[twitter]: https://twitter.com/chiragkhuteta
-[reddit]: https://twitter.com/chiragkhuteta
+
